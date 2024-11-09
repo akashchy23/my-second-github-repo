@@ -12,6 +12,16 @@ H6{
 }
 h2{
     text-align: center;
-    font: 25px;
+    font: 250px;
 }
-
+img{
+    width: 300px;
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+}
+.mariha{
+    text-align: center;
+    color: red;
+}
